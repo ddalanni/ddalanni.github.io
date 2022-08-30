@@ -1,0 +1,13 @@
+---
+title: "Dominique's Website for MATH 352"
+---
+
+## **Welcome All**
+
+Welcome to my Homepage! Here you will learn a little bit about me, my family, my education, and my career goals.
+
+### Field of Study
+
+I am majoring in Computer Science and will finally be graduating at the the end of the Fall 2022 semester. My college path did not begin at CSUCI, but I am so glad that I ended up here because I absolutely love the university.
+
+![PicOfMe](images/P1-01.JPG)

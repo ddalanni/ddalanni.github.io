@@ -1,0 +1,29 @@
+---
+title: "About Me"
+---
+
+### [Where I Grew Up]{.underline}
+
+I have two children who I love very much: Johnathan and Violet. Johnathan is now 14, and Violet is 2, but I absolutely love these pics!
+
+![Santa Barbara, CA](images/2FAAFD0D-616C-4BB8-9E6F-1326D19BC3F3.jpeg){width="600"}
+
+I was raised in Santa Barbara, California. I love my hometown, and am thankful for the lessons and memories I have from being there. Growing up surrounded by such natural and architectural beauty was truly a blessing.
+
+### [My Family]{.underline}
+
+![Johnathan](images/2F79949B-FC4F-4F80-BE26-7061F2AE3241.jpeg){fig-align="left" width="350"}
+
+![Violet](images/2C8881CE-C6B1-41A2-A45C-53DD7FFE5AAD.jpeg){fig-align="left" width="350"}
+
+These two children are absolutely the reason why I work as hard as I do. Currently, I work full time, am a full time student, and will be participating in research this semester. I hope to one day give them a better future, and more stable environment.
+
+## 
+
+### [Where I Work]{.underline}
+
+I currently work at as a Technology Project Assistant at AVEX Aviation LLC. at the Camarillo Airport. The company sells and provides maintenance services to potential owners and owners of TBM single engine airplanes.
+
+[Click here for more details about the company!](https://www.newavex.com/)
+
+![AVEX](images/TBM850.jpg)
