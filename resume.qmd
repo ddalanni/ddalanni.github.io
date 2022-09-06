@@ -2,7 +2,7 @@
 title: "Resume CV"
 ---
 
-## Education
+### [Education]{.underline}
 
 -   August 2021 - December 2022: CSU Channel Islands,
 
@@ -16,7 +16,7 @@ title: "Resume CV"
 
     Transfer Credit in Computer Science
 
-## Job History
+### [Job History]{.underline}
 
 -   October 2020 - Current: AVEX Aviation LLC:
 
