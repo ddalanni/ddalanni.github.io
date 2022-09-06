@@ -1,0 +1,47 @@
+---
+title: "Resume CV"
+---
+
+## Education
+
+-   August 2021 - December 2022: CSU Channel Islands,
+
+    BS Computer Science
+
+-   August 2017 - December 2018: George Washington University
+
+    Transfer Credit in Computer Science
+
+-   August 2014 - May 2017: CSU Dominguez Hills
+
+    Transfer Credit in Computer Science
+
+## Job History
+
+-   October 2020 - Current: AVEX Aviation LLC:
+
+    Technology Project Assistant
+
+-   April 2020 - September 2020: Techspert Services:
+
+    IT Project Manager
+
+-   December 2019 - March 2020: Sage Networks:
+
+    Network Support Specialist
+
+-   January 2019 - August 2019: City of Santa Barbara
+
+    Information Technology Technician I
+
+-   January 2017 - December 2018: NIST
+
+    Federal Pathways Program: Computer Scientist I Internship
+
+-   June 2016 - August 2016: NBCUniversal
+
+    IT Project Manager Intern
+
+-   January 2015 - March 2016: Metropolitan Water District\\
+
+    IT QA/QC Intern
